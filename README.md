@@ -1,8 +1,8 @@
 # FirstBlood
 
-A Decentralized eSports Platform Based on Smart Contracts
-Draft Version 0.1
-August 2016
+A Decentralized eSports Platform Based on Smart Contracts <br>
+Draft Version 0.1.4 <br>
+August 2016 <br>
 
 __This document is for informational purposes only and does not constitute an offer or solicitation to sell shares or securities in FirstBlood or any related or associated company. Any such offer or solicitation will be made only by means of a confidential offering memorandum and in accordance with the terms of all applicable securities and other laws.__
 
@@ -20,4 +20,4 @@ Traditional online businesses with centralized structures are subject to hacking
 Each match outcome will be automatically verified by two groups: Witnesses, and/or the Jury Voting Pool (“JVP”). Witnesses are people running the automated Witness node software that verifies and reports game results. Payouts will be rewarded to the winner based on player reports and Witness checks. This significantly reduces the risk of fraudulent reporting that is rampant on similar platforms
 
 
-[Continue reading FirstBlood White Paper](FirstBlood White Paper.pdf)
+[Continue reading FirstBlood White Paper](FirstBlood_White_Paper.pdf)
