@@ -1,8 +1,8 @@
 # FirstBlood
 
 A Decentralized eSports Platform Based on Smart Contracts <br>
-`Official Version 0.1.4` <br>
-`August 2016` <br>
+`Official Version 0.1.5` <br>
+`August 24 2016` <br>
 
 __This document is for informational purposes only and does not constitute an offer or solicitation to sell shares or securities in FirstBlood or any related or associated company. Any such offer or solicitation will be made only by means of a confidential offering memorandum and in accordance with the terms of all applicable securities and other laws.__
 
