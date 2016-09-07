@@ -4,8 +4,8 @@ A Decentralized eSports Platform Based on Smart Contracts <br>
 `Official Version 0.1.5` <br>
 `September 2016` <br>
 
-`[英文版本](FirstBlood_White_Paper.pdf)`
-`[中文版本](FirstBlood_White_Paper_CN.pdf)`
+[英文版本](FirstBlood_White_Paper.pdf) <br>
+[中文版本](FirstBlood_White_Paper_CN.pdf) <br>
 
 
 __This document is for informational purposes only and does not constitute an offer or solicitation to sell shares or securities in FirstBlood or any related or associated company. Any such offer or solicitation will be made only by means of a confidential offering memorandum and in accordance with the terms of all applicable securities and other laws.__
